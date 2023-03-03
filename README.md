@@ -1,4 +1,7 @@
-### Hi there 👋
+## Efesto
+
+- Huge fan of [Elixir](https://github.com/elixir-lang/elixir)
+- Spent some time on [Ruby](https://www.ruby-lang.org/en/)
 
 <!--
 **Efesto/Efesto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
