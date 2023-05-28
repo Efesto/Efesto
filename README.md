@@ -4,6 +4,6 @@
 - 💎 Spent some time on [Ruby](https://www.ruby-lang.org/en/)
 - 🏠 [My website](https://www.marcopolita.me)
 - 📕 [My manual](https://www.marcopolita.me/blog/about/)
-- 📝 [Some examples](https://www.marcopolita.me/blog/) of how my brain works
+- 📝 [My blog](https://www.marcopolita.me/blog/)
 
 Should we work together? Sure thing! You know where to find me
